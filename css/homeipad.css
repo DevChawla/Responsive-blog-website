@@ -1,0 +1,49 @@
+.log{
+    width: 70px;
+    height: 70px;
+    margin-top: -40px;
+}
+
+.list{
+ gap: 15px;
+ margin-top: -40px;
+
+}
+.links{
+    font-size: 22px;
+
+}
+.left{
+    
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   font-size: 30px;
+ 
+
+}
+.temp{
+ 
+    display: flex;
+   flex-direction: column;
+    align-items: center;
+    
+}
+.about-parent{
+   align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    
+    }
+    .about-me{
+        text-align: center;
+    }
+    .about-content{
+        margin: 40px auto 30px auto;
+        width: 50vw;
+        /* padding: 30px; */
+        text-align: center;
+        box-shadow: 6px 6px 10px -1px rgba(0,0,0,.71); 
+        
+    }

@@ -1,0 +1,32 @@
+h1{
+    font-size: 20px;
+}
+.context{
+font-size: 10px;
+}
+
+.search{
+font-size: 10px;
+    
+}
+.imggg{
+    width: 200px;
+}
+.con{
+font-size: 15px;
+ 
+}
+.main{
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: -40px;
+}
+.about-proj-name{
+ font-size: 15px;
+}
+.about-context{
+    font-size: 12px;
+    /* padding-top: 30px; */
+}

@@ -1,0 +1,50 @@
+.log2{
+    display: none;
+}
+.articles{
+    display: flex;
+    flex-direction: column;
+align-items: center;
+margin: auto;
+font-size: 15px;
+
+}
+.imggg{
+    width: 300px;
+}
+.art-text{
+    text-align: center;
+}
+h5{
+    font-size: 30px;
+    /* width: 70vw; */
+    padding-bottom: 30px;
+  
+}
+.mar{
+font-size: 12px;
+padding: 5px;
+width: 50vw;
+}
+
+.heading{
+   padding: 40px 40px 0px 40px;
+}
+
+.also{
+    display: flex;
+ flex-direction: column;
+
+}
+
+.size{
+ 
+    width: 150px;
+    margin: auto;
+
+ 
+}  
+.main-title{
+    
+    font-size: 12px;
+}
